@@ -1,0 +1,1 @@
+copy C:\fg\deployment\SearchBarred.js C:\fg\deployment\SearchBar.js

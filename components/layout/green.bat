@@ -1,0 +1,1 @@
+copy C:\fg\deployment\SearchBargreen.js C:\fg\deployment\SearchBar.js
